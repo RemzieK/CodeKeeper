@@ -7,12 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
     <Folder Include="GitIntegration\" />
     <Folder Include="FileStorage\" />
     <Folder Include="Configuration\" />
-    <Folder Include="Security\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>

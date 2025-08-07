@@ -13,8 +13,6 @@
     <Folder Include="Commands\" />
     <Folder Include="Services\" />
     <Folder Include="Resources\" />
-    <Folder Include="ViewModels\" />
-    <Folder Include="Views\" />
   </ItemGroup>
 
   <ItemGroup>

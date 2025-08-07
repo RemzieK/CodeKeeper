@@ -1,0 +1,6 @@
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.csproj.AssemblyReference.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.AssemblyInfoInputs.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.AssemblyInfo.cs
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.sourcelink.json

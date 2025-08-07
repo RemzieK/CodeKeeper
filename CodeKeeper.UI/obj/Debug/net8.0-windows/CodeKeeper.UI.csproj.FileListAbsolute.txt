@@ -1,0 +1,7 @@
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\CodeKeeper.UI.csproj.AssemblyReference.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\Views\RegisterView.g.cs
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\CodeKeeper.UI_MarkupCompile.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\CodeKeeper.UI_MarkupCompile.lref

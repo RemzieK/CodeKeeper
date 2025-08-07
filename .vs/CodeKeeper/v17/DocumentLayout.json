@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|solutionrelative:codekeeper.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|solutionrelative:codekeeper.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.application\\services\\loginuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|solutionrelative:codekeeper.application\\services\\loginuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|solutionrelative:codekeeper.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|solutionrelative:codekeeper.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\App.xaml.cs",
-              "RelativeDocumentMoniker": "CodeKeeper.UI\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\App.xaml.cs",
-              "RelativeToolTip": "CodeKeeper.UI\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CodeKeeper.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "CodeKeeper.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T09:39:20.348Z",
+              "WhenOpened": "2025-08-07T11:58:05.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Services\\LoginUserService.cs",
+              "RelativeDocumentMoniker": "CodeKeeper.Application\\Services\\LoginUserService.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Services\\LoginUserService.cs",
+              "RelativeToolTip": "CodeKeeper.Application\\Services\\LoginUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:56:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "CodeKeeper.Application\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "CodeKeeper.Application\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:53:14.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CodeKeeper.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "CodeKeeper.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:52:22.882Z",
               "EditorCaption": ""
             }
           ]
