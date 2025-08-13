@@ -8,7 +8,7 @@ namespace CodeKeeper.Domain.Interfaces
 {
     public interface IPasswordHashing
     {
-        Task HashPassword(string password);
-        Task<bool> VerifyPassword(string password);
+        Task<string> HashPasswordAsync(string password);
+        Task<bool> VerifyPasswordAsync(string password, string hash);
     }
 }

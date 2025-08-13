@@ -1,4 +1,5 @@
 ﻿using CodeKeeper.Domain.Interfaces;
+using Org.BouncyCastle.Crypto.Generators;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,14 +10,17 @@ namespace CodeKeeper.Infrastructure.Hashing
 {
     public class PasswordHasher : IPasswordHashing
     {
-        public Task HashPassword(string password)
+        public Task<string> HashPasswordAsync(string password)
         {
-            throw new NotImplementedException();
+            return Task.Run(() =>
+            {
+                return BCrypt.Net.BCrypt.HashPassword(password);
+            });
         }
 
-        public Task<bool> VerifyPassword(string password)
+        public Task<bool> VerifyPasswordAsync(string password, string hash)
         {
-            throw new NotImplementedException();
+            return Task.Run(() => BCrypt.Net.BCrypt.Verify(password, hash));
         }
     }
 }

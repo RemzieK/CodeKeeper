@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeKeeper.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e4d1bf922fd979ebece073b808a49b4cea8a2ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+040250fe80360f6e54e20372df85f1877e32e06b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeKeeper.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeKeeper.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
