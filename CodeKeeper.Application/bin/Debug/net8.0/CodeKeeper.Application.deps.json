@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CodeKeeper.Application/1.0.0": {
+        "dependencies": {
+          "CodeKeeper.Common": "1.0.0",
+          "CodeKeeper.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CodeKeeper.Application.dll": {}
+        }
+      },
+      "CodeKeeper.Common/1.0.0": {
+        "runtime": {
+          "CodeKeeper.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CodeKeeper.Domain/1.0.0": {
+        "dependencies": {
+          "CodeKeeper.Common": "1.0.0"
+        },
+        "runtime": {
+          "CodeKeeper.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeKeeper.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeKeeper.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodeKeeper.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

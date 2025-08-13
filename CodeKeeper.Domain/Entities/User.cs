@@ -13,6 +13,6 @@ namespace CodeKeeper.Domain.Entities
         public string email { get; set; } = string.Empty;
         public string passwordHash { get; set; } = string.Empty;
 
-        ICollection<Repository> repositories { get; set; } = new List<Repository>();
+        public ICollection<Repository> repositories { get; set; } = new List<Repository>();
     }
 }

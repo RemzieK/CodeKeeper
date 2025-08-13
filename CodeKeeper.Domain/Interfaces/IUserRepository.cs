@@ -10,9 +10,9 @@ namespace CodeKeeper.Domain.Interfaces
     public interface IUserRepository
     {
         Task AddUserAsync(User user);
-        Task<User?> GetUserByName(string userName);
-        Task<bool> EmailExists(string email);
-        Task DeleteUser(User user);
+        Task<User?> GetUserByNameAsync(string userName);
+        Task SaveChangesAsync();
+        Task DeleteUserAsync(User user);
 
     }
 }
