@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeKeeper.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e4d1bf922fd979ebece073b808a49b4cea8a2ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7587aef07d5b2aaf7f15c6f8faffd4bc0347a914")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeKeeper.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeKeeper.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

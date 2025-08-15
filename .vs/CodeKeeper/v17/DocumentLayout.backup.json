@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE93932E-A53B-4071-B4C0-4EDCB35CD88A}|CodeKeeper.Infrastructure\\CodeKeeper.Infrastructure.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.infrastructure\\hashing\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE93932E-A53B-4071-B4C0-4EDCB35CD88A}|CodeKeeper.Infrastructure\\CodeKeeper.Infrastructure.csproj|solutionrelative:codekeeper.infrastructure\\hashing\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.ui\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|solutionrelative:codekeeper.ui\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995347FD-C58E-413B-9EE7-F7A60958B804}|CodeKeeper.Domain\\CodeKeeper.Domain.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.domain\\interfaces\\ipasswordhashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995347FD-C58E-413B-9EE7-F7A60958B804}|CodeKeeper.Domain\\CodeKeeper.Domain.csproj|solutionrelative:codekeeper.domain\\interfaces\\ipasswordhashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.ui\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|solutionrelative:codekeeper.ui\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|solutionrelative:codekeeper.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.ui\\codekeeper.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|solutionrelative:codekeeper.ui\\codekeeper.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|solutionrelative:codekeeper.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E19C5AAB-4A7E-402A-9D84-08E28BCE7439}|CodeKeeper.Application\\CodeKeeper.Application.csproj|solutionrelative:codekeeper.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{995347FD-C58E-413B-9EE7-F7A60958B804}|CodeKeeper.Domain\\CodeKeeper.Domain.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.domain\\services\\passwordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995347FD-C58E-413B-9EE7-F7A60958B804}|CodeKeeper.Domain\\CodeKeeper.Domain.csproj|solutionrelative:codekeeper.domain\\services\\passwordvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|c:\\users\\remi\\pictures\\visual studio\\codekeeper\\codekeeper.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A036979C-0E09-488E-B074-8FBA32FB3C96}|CodeKeeper.UI\\CodeKeeper.UI.csproj|solutionrelative:codekeeper.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "CodeKeeper.Application\\Interfaces\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "CodeKeeper.Application\\Interfaces\\IAuthService.cs",
+              "Title": "CodeKeeper.UI",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\CodeKeeper.UI.csproj",
+              "RelativeDocumentMoniker": "CodeKeeper.UI\\CodeKeeper.UI.csproj",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\CodeKeeper.UI.csproj",
+              "RelativeToolTip": "CodeKeeper.UI\\CodeKeeper.UI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:53:32.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "CodeKeeper.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "CodeKeeper.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:53:31.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "CodeKeeper.Application\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "CodeKeeper.Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:51:26.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Infrastructure\\Hashing\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "CodeKeeper.Infrastructure\\Hashing\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Infrastructure\\Hashing\\PasswordHasher.cs",
-              "RelativeToolTip": "CodeKeeper.Infrastructure\\Hashing\\PasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:33:01.463Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T15:56:01.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IPasswordHashing.cs",
-              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Domain\\Interfaces\\IPasswordHashing.cs",
-              "RelativeDocumentMoniker": "CodeKeeper.Domain\\Interfaces\\IPasswordHashing.cs",
-              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Domain\\Interfaces\\IPasswordHashing.cs",
-              "RelativeToolTip": "CodeKeeper.Domain\\Interfaces\\IPasswordHashing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "CodeKeeper.UI\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "CodeKeeper.UI\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA6wBcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:28:58.712Z",
+              "WhenOpened": "2025-08-15T15:42:49.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PasswordValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Domain\\Services\\PasswordValidation.cs",
-              "RelativeDocumentMoniker": "CodeKeeper.Domain\\Services\\PasswordValidation.cs",
-              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.Domain\\Services\\PasswordValidation.cs",
-              "RelativeToolTip": "CodeKeeper.Domain\\Services\\PasswordValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T19:28:50.01Z",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "CodeKeeper.UI\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\Views\\LoginView.xaml*",
+              "RelativeToolTip": "CodeKeeper.UI\\Views\\LoginView.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-15T15:37:30.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\App.xaml",
+              "RelativeDocumentMoniker": "CodeKeeper.UI\\App.xaml",
+              "ToolTip": "C:\\Users\\Remi\\Pictures\\Visual Studio\\CodeKeeper\\CodeKeeper.UI\\App.xaml",
+              "RelativeToolTip": "CodeKeeper.UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-15T15:35:54.83Z",
               "EditorCaption": ""
             }
           ]

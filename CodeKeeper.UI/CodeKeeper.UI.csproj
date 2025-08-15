@@ -9,6 +9,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="images\background.jpg" />
+    <None Remove="images\key.png" />
+    <None Remove="images\user.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Commands\" />
     <Folder Include="Services\" />
@@ -29,6 +35,12 @@
     <ProjectReference Include="..\CodeKeeper.Application\CodeKeeper.Application.csproj" />
     <ProjectReference Include="..\CodeKeeper.Common\CodeKeeper.Common.csproj" />
     <ProjectReference Include="..\CodeKeeper.Infrastructure\CodeKeeper.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\background.jpg" />
+    <Resource Include="images\key.png" />
+    <Resource Include="images\user.png" />
   </ItemGroup>
 
 </Project>
