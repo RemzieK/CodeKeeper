@@ -1,0 +1,17 @@
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\CodeKeeper.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\CodeKeeper.Application.AssemblyInfoInputs.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\CodeKeeper.Application.AssemblyInfo.cs
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\CodeKeeper.Application.csproj.CoreCompileInputs.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\bin\Debug\net8.0\CodeKeeper.Application.deps.json
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\bin\Debug\net8.0\CodeKeeper.Application.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\bin\Debug\net8.0\CodeKeeper.Application.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\bin\Debug\net8.0\CodeKeeper.Common.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\bin\Debug\net8.0\CodeKeeper.Domain.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\bin\Debug\net8.0\CodeKeeper.Common.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\bin\Debug\net8.0\CodeKeeper.Domain.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\CodeKeeper.Application.csproj.AssemblyReference.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\CodeKeep.4582FB03.Up2Date
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\CodeKeeper.Application.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\refint\CodeKeeper.Application.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\CodeKeeper.Application.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Application\obj\Debug\net8.0\ref\CodeKeeper.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\obj\Debug\net8.0\CodeKeeper.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\obj\Debug\net8.0\CodeKeeper.Common.AssemblyInfoInputs.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\obj\Debug\net8.0\CodeKeeper.Common.AssemblyInfo.cs
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\obj\Debug\net8.0\CodeKeeper.Common.csproj.CoreCompileInputs.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\bin\Debug\net8.0\CodeKeeper.Common.deps.json
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\bin\Debug\net8.0\CodeKeeper.Common.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\bin\Debug\net8.0\CodeKeeper.Common.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\obj\Debug\net8.0\CodeKeeper.Common.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\obj\Debug\net8.0\refint\CodeKeeper.Common.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\obj\Debug\net8.0\CodeKeeper.Common.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Common\obj\Debug\net8.0\ref\CodeKeeper.Common.dll

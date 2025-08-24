@@ -1,0 +1,15 @@
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.AssemblyInfoInputs.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.AssemblyInfo.cs
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\bin\Debug\net8.0\CodeKeeper.Domain.deps.json
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\bin\Debug\net8.0\CodeKeeper.Domain.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\bin\Debug\net8.0\CodeKeeper.Domain.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\bin\Debug\net8.0\CodeKeeper.Common.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\bin\Debug\net8.0\CodeKeeper.Common.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.csproj.AssemblyReference.cache
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeep.68BA6246.Up2Date
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\refint\CodeKeeper.Domain.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\CodeKeeper.Domain.pdb
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.Domain\obj\Debug\net8.0\ref\CodeKeeper.Domain.dll
