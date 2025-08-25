@@ -386,6 +386,10 @@
               "target": "Package",
               "version": "[8.4.0, )"
             },
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.8, )"

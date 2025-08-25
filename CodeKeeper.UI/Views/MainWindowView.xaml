@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CodeKeeper.UI"
         xmlns:viewModel="clr-namespace:CodeKeeper.UI.ViewModels"
+        xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
         mc:Ignorable="d"
         Title="MainWindowView" Height="700" Width="1300"
         WindowStartupLocation="CenterScreen"
@@ -46,6 +47,72 @@
                         <GradientStop Color="{StaticResource secondaryBackColor2}" Offset="1"/>
                     </LinearGradientBrush>
                 </Border.Background>
+
+                <StackPanel>
+                    <StackPanel>
+                        <TextBlock Text="CodeKeeper"
+                                    Foreground="White"
+                                    FontSize="40"
+                                    FontFamily="Montserrat"
+                                    HorizontalAlignment="Center" 
+                                    TextAlignment="Center" 
+                                    FontStyle="Italic" 
+                                    FontWeight="Bold"
+                                    Margin="0,35,0,0"/>
+                    </StackPanel>
+                    
+                    <!---Menu buttons-->
+                    <RadioButton Style="{StaticResource menuButton}"
+                                 Tag="{StaticResource color1}">
+
+                        <StackPanel Orientation="Horizontal">
+                            <fa:IconImage Icon="Home" Style="{StaticResource menuButtonIcon}"/>
+                            <TextBlock Text="Home" Style="{StaticResource menuButtonText}"/>
+                        </StackPanel>
+                        
+                    </RadioButton>
+                    
+                    <RadioButton Style="{StaticResource menuButton}"
+                                 Tag="{StaticResource color7}">
+
+                        <StackPanel Orientation="Horizontal">
+                            <fa:IconImage Icon="Code" Style="{StaticResource menuButtonIcon}"/>
+                            <TextBlock Text="Repositories" Style="{StaticResource menuButtonText}"/>
+                        </StackPanel>
+
+                    </RadioButton>
+                    
+                    <RadioButton Style="{StaticResource menuButton}"
+                                Tag="{StaticResource color3}">
+
+                        <StackPanel Orientation="Horizontal">
+                            <fa:IconImage Icon="Plus" Style="{StaticResource menuButtonIcon}"/>
+                            <TextBlock Text="New" Style="{StaticResource menuButtonText}"/>
+                        </StackPanel>
+
+                    </RadioButton>
+                    
+                    <RadioButton Style="{StaticResource menuButton}"
+                                 Tag="{StaticResource color6}">
+
+                        <StackPanel Orientation="Horizontal">
+                            <fa:IconImage Icon="Search" Style="{StaticResource menuButtonIcon}"/>
+                            <TextBlock Text="Search" Style="{StaticResource menuButtonText}"/>
+                        </StackPanel>
+
+                    </RadioButton>
+                    
+                    <RadioButton Style="{StaticResource menuButton}"
+                                 Tag="{StaticResource color9}">
+
+                        <StackPanel Orientation="Horizontal">
+                            <fa:IconImage Icon="Gear" Style="{StaticResource menuButtonIcon}"/>
+                            <TextBlock Text="Settings" Style="{StaticResource menuButtonText}"/>
+                        </StackPanel>
+
+                    </RadioButton>
+
+                </StackPanel>
                 
             </Border>
 

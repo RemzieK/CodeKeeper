@@ -90,3 +90,6 @@ C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-w
 C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\Views\MainWindowView.g.cs
 C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\Views\MainWindowView.baml
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\CodeKeeper.UI.sourcelink.json
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Remi\Pictures\Visual Studio\CodeKeeper\CodeKeeper.UI\obj\Debug\net8.0-windows\Styles\ButtonStyle.baml
